@@ -1,21 +1,40 @@
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    margin: 0 auto;
+    max-width: 50em;
+}
+img{
+    align-items: left;
+    border-image: round;
+}
+
 h1 {
+    text-align: left;
     color: blue
 }
 
 h2 {
+    text-align: left;
     color: red
 }
 
 ul {
+    text-align: left;
     color: palevioletred
 }
 
 h3 {
+    text-align: center;
     color: red
 }
 
 p {
     color: rgb(255, 89, 89);
+    text-align: left;
 }
 
-em {color: red}
+em {
+    color: red
+}
