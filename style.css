@@ -1,1 +1,21 @@
-p { color: red; }
+h1 {
+    color: blue
+}
+
+h2 {
+    color: red
+}
+
+ul {
+    color: palevioletred
+}
+
+h3 {
+    color: red
+}
+
+p {
+    color: rgb(255, 89, 89);
+}
+
+em {color: red}
